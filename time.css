@@ -1,0 +1,240 @@
+*{
+
+    margin:0;
+}
+body {
+    background-image: url(background.png);
+    background-repeat:no-repeat;
+	background-attachment: fixed;	
+    font-family: 'Arvo', serif;
+}
+header h1{
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    font-size: 4.5em;
+    color: #F9DB03;
+}
+section#categories{
+    margin-top: 20px;
+    position: absolute;
+    top: 7%;
+    left: 75%;
+    
+}
+section#categories, img{
+    float: left;
+    clear: left;
+    margin-bottom: 15px;
+	height: 27%;
+}
+section#categories,h3{
+    margin-bottom: 20px;
+	color: white;
+	font-size: 1.25em;
+}
+section#categories, p{
+    float: right;
+    clear: right;
+    margin-top: 25px;
+    margin-left: 5px;
+    text-align: left;
+}
+#categories,p#yellow{
+    color: #CEBF0D;
+    font-size: 15px;
+    
+}
+#categories,p#red{
+    color: #AF1B26;
+    font-size: 15px;
+
+    
+}
+#categories,p#pink{
+    font-size: 15px;
+ 
+    color: #A54287;
+}
+#categories,p#blue{
+    color:#6ECCD6;
+    font-size: 15px;
+   
+}
+section#calendar{
+	margin: 0px;
+	position: absolute;
+	top: 15%;
+	left: 10%;
+}
+#calendar section p{
+	text-align: left;
+	font-size: 15pt;
+	color:white;
+	
+}
+#calendar h2{
+	color: white;
+	font-size:25pt;
+}
+#calendar .yellow{
+	color:#CEBF0D;
+}
+#calendar .red{
+	color:#AF1B26;
+}
+#calendar .pink{
+	color:#A54287;
+}
+#calendar .blue{
+	color:#6ECCD6;
+}
+#one h2{
+	position: fixed;
+	top: 18%;
+	left: 17%;
+}
+#one p{
+	
+}
+	#one .yellow{
+		position: fixed;
+		top: 15%;
+		left: 21%;
+	}
+	#one .blue{
+		position: fixed;
+		top: 18%;
+		left: 21%;
+	}
+
+
+#two h2{
+	position: fixed;
+	top: 28%;
+	left: 20%;
+}
+	#blue2a{
+		position: fixed;
+		top: 24%;
+		left: 24%;
+	}
+	#blue2b{
+		position: fixed;
+		top: 27%;
+		left: 24%;
+	}
+	#two .red{
+		position: fixed;
+		top: 30%;
+		left: 24%;
+	}
+	#blue2c{
+		position: fixed;
+		top: 33%;
+		left: 24%;
+	}
+	
+#three h2{
+	position: fixed;
+	top: 39%;
+	left: 41%;
+}
+	#pink3a {
+		position: fixed;
+		top: 35%;
+		left: 45%;
+	}
+	#blue3a {
+		position: fixed;
+		top: 38%;
+		left: 45%;
+	}
+	#pink3b {
+		position: fixed;
+		top: 41%;
+		left: 45%;
+	}
+	#blue3b {
+		position: fixed;
+		top: 44%;
+		left: 45%;
+	}
+#four h2{
+	position: fixed;
+	top: 52%;
+	left: 47%;
+}
+	#red4a {
+		position: fixed;
+		top: 48%;
+		left: 51%;
+	}
+	#pink4a {
+		position: fixed;
+		top: 51%;
+		left: 51%;
+	}
+	#red4b {
+		position: fixed;
+		top: 54%;
+		left: 51%;
+	}
+	#pink4b {
+		position: fixed;
+		top: 57%;
+		left: 51%;
+	}
+#five h2{
+	position: fixed;
+	top: 67%;
+	left: 62%;
+}
+	#yellow5a {
+			position: fixed;
+			top: 59%;
+			left: 67%;
+		}
+	#yellow5b {
+			position: fixed;
+			top: 62%;
+			left: 67%;
+		}
+	#pink5a {
+			position: fixed;
+			top: 65%;
+			left: 67%;
+		}
+	#pink5b {
+			position: fixed;
+			top: 68%;
+			left: 67%;
+	}
+#six h2{
+	position: fixed;
+	top: 74%;
+	left: 80%;
+}
+	#six .pink{
+		position: fixed;
+		top: 71%;
+		left: 85%;
+	}
+	#red6a {
+		position: fixed;
+		top: 77%;
+		left: 85%;
+	}
+	#red6b {
+		position: fixed;
+		top: 83%;
+		left: 85%;
+	}
+	footer{
+		position: absolute;
+		top: 90%;
+		left: 4%;
+	}
+	h6{
+		visibility: hidden;
+	}
